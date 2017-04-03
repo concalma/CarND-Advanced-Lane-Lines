@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 ###Writeup / README
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  
-The writeup is provided in markup in the file writeup.md along with the IPython notebook P4.ipynb.
+The writeup is provided in markup in the file writeup.md along with the IPython notebook P4.ipynb or the exported P4.html.
 ###Camera Calibration
 
 ####1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
